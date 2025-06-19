@@ -9,6 +9,6 @@ Then, Download the Pre-trained Word2Vec Model. This project uses the Google News
 
 You can download it here (warning: large file ~1.5GB):
 
-📥 
+📥 https://github.com/mmihaltz/word2vec-GoogleNews-vectors
 
 After downloading, extract the file and place it in the appropriate folder in your cloned repository.
